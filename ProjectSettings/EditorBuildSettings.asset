@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Ensiklopedia.unity
+    guid: bd75a7d8aafdcbc4ca88008177b506fd
+  - enabled: 1
+    path: Assets/Kisah.unity
+    guid: 228698c108b53e24e8ac4d43e74c9be6
+  - enabled: 1
+    path: Assets/Lainnya.unity
+    guid: e2c038318aad33541a730b0afb6db2b1
+  - enabled: 1
+    path: Assets/Panduan.unity
+    guid: 328f3747a3a29af44b58d04eca3429c8
+  - enabled: 1
+    path: Assets/Kredit.unity
+    guid: bf25087683d5d8242805a859751dc254
+  - enabled: 1
+    path: Assets/QUIZ.unity
+    guid: e82a25e94cd7f444c8619f456a48f542
+  - enabled: 1
+    path: Assets/Karnivora.unity
+    guid: f5d3be289c87a0e4a91c2f32bfb2465c
+  - enabled: 1
+    path: Assets/Herbivora.unity
+    guid: 2a19471d53d843f468e3e7a8fef4edb2
+  - enabled: 1
+    path: Assets/Omnivora.unity
+    guid: 83c9285c556b73d4689011675834e9ab
+  - enabled: 1
+    path: Assets/Scenes/swipeMenu/Anjing.unity
+    guid: 1730b9c6c7abb7c4b8aa3b31a8875bdb
+  - enabled: 1
+    path: Assets/ARgogok.unity
+    guid: 742e0c9abddc8524b9d75edc292f0ba1
+  - enabled: 1
+    path: Assets/Gajah.unity
+    guid: 379ee032a4917ed449c9e67e0c9f2879
+  - enabled: 1
+    path: Assets/ARgajah.unity
+    guid: 1e54f1806dfb8c44cb5a4895eb3c40ca
+  - enabled: 1
+    path: Assets/Gagak.unity
+    guid: 3b72e503e1a35e646b95abf38c4c9e8d
+  - enabled: 1
+    path: Assets/LabaLaba.unity
+    guid: 601cd4f36e69a2941a56f66c204d5096
+  - enabled: 1
+    path: Assets/HudHud.unity
+    guid: b06c9347daa1a45468d4b83c63b753ac
+  - enabled: 1
+    path: Assets/Kambing.unity
+    guid: 83521987757c1cf43b133bf3015e09fb
+  - enabled: 1
+    path: Assets/Keledai.unity
+    guid: 1144bd0975bbbbf438f6e73dd9c82336
+  - enabled: 1
+    path: Assets/Paus.unity
+    guid: dcad560570f60cf409de01e6d60f4f44
+  - enabled: 1
+    path: Assets/Sapi.unity
+    guid: 6b8e0302367a38246894d7974f511ac1
+  - enabled: 1
+    path: Assets/Semut.unity
+    guid: 48552a842b870dc459c8394740ee1eba
+  - enabled: 1
+    path: Assets/Serigala.unity
+    guid: 827bbd633e5c58441b40f63c5c9155a7
+  - enabled: 1
+    path: Assets/Ular.unity
+    guid: 9c21bff4449d59c48b2f00c7f16b632c
+  - enabled: 1
+    path: Assets/Unta.unity
+    guid: 685ef8d73d94f684eac5bc04214eb671
+  - enabled: 1
+    path: Assets/KisahAnjing.unity
+    guid: d3b0026a239c6184489a0996d00c7d3a
+  - enabled: 1
+    path: Assets/KisahGagak.unity
+    guid: 61fef986d953fc64eafc6ee3fdd60600
+  - enabled: 1
+    path: Assets/KisahGajah.unity
+    guid: c3549ec64dd355b4eb89f7ada90515a0
+  - enabled: 1
+    path: Assets/KisahHudHud.unity
+    guid: b168889393da545479bcf3ec731433bd
+  - enabled: 1
+    path: Assets/KisahKambing.unity
+    guid: 72c9f75ea82d8de43adbcd7b914ca12e
+  - enabled: 1
+    path: Assets/KisahKeledai.unity
+    guid: f069a787aecae3243ab989397b916bf2
+  - enabled: 1
+    path: Assets/KisahLabaLaba.unity
+    guid: 0f563c9c3ceb75b4d80eeac5830c4322
+  - enabled: 1
+    path: Assets/KisahPaus.unity
+    guid: 03f59f07467fe1e40a7a5d36fe23032b
+  - enabled: 1
+    path: Assets/KisahSapi.unity
+    guid: 471d41390d81cb34bb964c0bb1a94172
+  - enabled: 1
+    path: Assets/KisahSemut.unity
+    guid: 081ee8f705b723c40962e61ee89bc5aa
+  - enabled: 1
+    path: Assets/KisahSerigala.unity
+    guid: 9d202fc82bee82f4e8b524f75fb4936e
+  - enabled: 1
+    path: Assets/KisahUlar.unity
+    guid: 03ea24bfdfb92a94daca94c20655eb52
+  - enabled: 1
+    path: Assets/KisahUnta.unity
+    guid: 020e70d44993be5418d45e8e1017d8ba
+  - enabled: 1
+    path: Assets/ARgagak.unity
+    guid: 63ada0818e6a18d47a893bf2e187452a
+  - enabled: 1
+    path: Assets/ARhudhud.unity
+    guid: 819daed90a5804442bf8cd4f39e404ab
+  - enabled: 1
+    path: Assets/ARkambing.unity
+    guid: 9bb7df5d8ef074a49ad93e15a2c7eb05
+  - enabled: 1
+    path: Assets/ARkeledai.unity
+    guid: 0d85a318759f3e6459d3b3dd82f700bd
+  - enabled: 1
+    path: Assets/ARlaba.unity
+    guid: 7ec91de9d3d9f9241856f340a1a92e0a
+  - enabled: 1
+    path: Assets/ARsapi.unity
+    guid: f55b5632f42e31e488354e8cf3f46d88
+  - enabled: 1
+    path: Assets/ARsemut.unity
+    guid: c10632c7992b41f43ba46d45510610c8
+  - enabled: 1
+    path: Assets/ARserigala.unity
+    guid: cadb1a4014148834ea01c8973854fcc3
+  - enabled: 1
+    path: Assets/ARpaus.unity
+    guid: 9922a3244714d724aa7ffaa34c54cd55
+  - enabled: 1
+    path: Assets/ARular.unity
+    guid: bbd6b3bf308cb834283f326063d48e3a
+  - enabled: 1
+    path: Assets/ARunta.unity
+    guid: 1dae4ead47aae7f48b8a12b3a2c5889b
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e7cdb2c56c634fb4590308ff702f32d8, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: f75b021b413215e46b8e6447d2880051, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 3877d8d4d9c3a9449ba76534458a44f8, type: 2}
